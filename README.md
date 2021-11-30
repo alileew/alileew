@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm alileew, A fe progfe
+I'm alileew, A Front-end enginner.
 
 - 🌱 I’m currently learning TypeScript、Next.js....
 - ✨ My blog 👉 https://alileew.github.io/
