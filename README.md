@@ -24,6 +24,8 @@ I'm alileew, A Front-end enginner.
   ![webpack](https://img.shields.io/badge/-webpack-blue)
   ![HTTP](https://img.shields.io/badge/-HTTP-yellowgreen)
   ![Git](https://img.shields.io/badge/-Git-orange)
+ 
+![](https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true)
 
 <!--
 **alileew/alileew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
