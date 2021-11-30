@@ -4,7 +4,7 @@ I'm alileew, A Front-end enginner.
 
 - 🌱 I’m currently learning TypeScript、Next.js....
 - ✨ My blog 👉 https://alileew.github.io/
-- 💬 You can contact me through 👉 vonmo.job@gmail.com
+- 💬 You can contact me through 👉 [alileew](vonmo.job@gmail.com)
 - 📫 My Power Tools </br >
 
   ![vscode](https://img.shields.io/badge/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7-VS%20Code-blue)
@@ -25,7 +25,7 @@ I'm alileew, A Front-end enginner.
   ![HTTP](https://img.shields.io/badge/-HTTP-yellowgreen)
   ![Git](https://img.shields.io/badge/-Git-orange)
  
-![](https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true)
+<!-- ![](https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true) -->
 
 <!--
 **alileew/alileew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
