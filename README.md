@@ -12,10 +12,10 @@ I'm alileew, A Front-end enginner.
   ![Gittalk](https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2%E8%AF%84%E8%AE%BA-Gittalk-yellow)
   ![图床](https://img.shields.io/badge/%E5%9B%BE%E5%BA%8A-PicGo-lightgrey)
   
-- 🔧 My skill </br >
-
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-orange)
+- 🔧 My skills </br >
+  ![HTML](https://img.shields.io/badge/-HTML-blue)
   ![CSS](https://img.shields.io/badge/-CSS-green)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-orange)
   ![styled--components](https://img.shields.io/badge/-styled--components-orange)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
   ![React](https://img.shields.io/badge/-React-blue)
