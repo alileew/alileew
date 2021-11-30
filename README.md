@@ -4,7 +4,7 @@ I'm alileew, A Front-end enginner.
 
 - 🌱 I’m currently learning TypeScript、Next.js....
 - ✨ My blog 👉 https://alileew.github.io/
-- 💬 You can contact me through 👉 [alileew](vonmo.job@gmail.com)
+- 💬 You can contact me through 👉 mailto:vonmo.job@gmail.com
 - 📫 My Power Tools </br >
 
   ![vscode](https://img.shields.io/badge/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7-VS%20Code-blue)
@@ -13,6 +13,7 @@ I'm alileew, A Front-end enginner.
   ![图床](https://img.shields.io/badge/%E5%9B%BE%E5%BA%8A-PicGo-lightgrey)
   
 - 🔧 My skills </br >
+
   ![HTML](https://img.shields.io/badge/-HTML-blue)
   ![CSS](https://img.shields.io/badge/-CSS-green)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-orange)
