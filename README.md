@@ -27,6 +27,11 @@ I'm alileew, A Front-end enginner.
   ![Git](https://img.shields.io/badge/-Git-orange)
  
 <!-- ![](https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true) -->
+![alileew GitHub stats](https://github-readme-stats.vercel.app/api?username=alileew&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alileew&layout=compact)](https://github.com/alileew/github-readme-stats)
+
+
 
 <!--
 **alileew/alileew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
