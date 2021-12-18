@@ -23,8 +23,9 @@ I'm alileew, A Front-end enginner.
   ![webpack](https://img.shields.io/badge/-webpack-blue)
   ![HTTP](https://img.shields.io/badge/-HTTP-yellowgreen)
   ![Git](https://img.shields.io/badge/-Git-orange)
-
-  <img src="https://github-readme-stats.vercel.app/api?username=alileew&theme=buefy&show_icons=true" height="200px" width="400px" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alileew&theme=buefy&layout=compact" height="200px" width="400px" />
+  
+  ![](https://github-readme-stats.vercel.app/api?username=alileew&theme=buefy&show_icons=true)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alileew&theme=buefy&layout=compact)
 
 <!--   ![alileew GitHub stats](https://github-readme-stats.vercel.app/api?username=alileew&theme=buefy&show_icons=true) -->
 <!--   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alileew&theme=buefy&layout=compact) -->
