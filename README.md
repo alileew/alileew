@@ -8,7 +8,7 @@ I'm alileew, A Front-end enginner.
 - 💡
   ![vscode](https://img.shields.io/badge/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7-VS%20Code-blue)
   ![hexo](https://img.shields.io/badge/blog-hexo-brightgreen)
-  ![Gittalk](https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2%E8%AF%84%E8%AE%BA-Gittalk-yellow)
+  ![Valine](https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2%E8%AF%84%E8%AE%BA-Valine-yellowgreen)
   ![图床](https://img.shields.io/badge/%E5%9B%BE%E5%BA%8A-PicGo%20GitHub-lightgrey)
 - 🔧
   ![HTML5](https://img.shields.io/badge/-HTML5-red)
