@@ -4,7 +4,7 @@ I'm vonmo, A Front-end enginner.
 
 - 🌱 I’m currently learning TypeScript、Next.js....
 - ✨ My blog 👉 https://www.vonmo.cn
-- 💬 You can contact me through 👉 mailto:alileew.me@gmail.com
+- 💬 You can contact me through 👉 mailto:vonmo.job@gmail.com
 - 💡
   ![vscode](https://img.shields.io/badge/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7-VS%20Code-blue)
   ![hexo](https://img.shields.io/badge/blog-hexo-brightgreen)
