@@ -2,7 +2,7 @@
 
 I'm vonmo, A Front-end enginner.
 
-- 🌱 I’m currently learning TypeScript、Next.js....
+- 🌱 I’m currently learning Vite....
 - ✨ My blog 👉 https://www.vonmo.cn
 - 💬 You can contact me through 👉 mailto:vonmo.job@gmail.com
 - 💡
