@@ -2,7 +2,7 @@
 
 I'm vonmo, A Front-end enginner.
 
-- 🌱 I’m currently learning Vite....
+- 🌱 I’m currently learning K8S....
 - ✨ My blog 👉 https://www.vonmo.cn
 - 💬 You can contact me through 👉 mailto:vonmo.job@gmail.com
 - 💡
