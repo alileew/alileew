@@ -2,7 +2,7 @@
 
 I'm vonmo, A Front-end enginner.
 
-- 🌱 I’m currently learning K8S....
+- 🌱 I’m currently learning K8S、Next....
 - ✨ My blog 👉 https://alileew-github-io.vercel.app
 - 💬 You can contact me through 👉 mailto:vonmo.job@gmail.com
 - 💡
